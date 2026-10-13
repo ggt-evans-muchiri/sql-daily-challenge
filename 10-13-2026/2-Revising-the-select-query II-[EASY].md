@@ -6,7 +6,7 @@
 ## Intuition
 We need to return just the name of the city records where the country code is `USA` and the population is greater than `100000`. The simplest approach is to filter the table with a `WHERE` clause using both conditions together.
 
-## Actual SQL Code
+## Solution
 ```sql
 SELECT name
   FROM city
