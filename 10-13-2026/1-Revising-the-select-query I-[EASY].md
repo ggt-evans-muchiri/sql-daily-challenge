@@ -1,6 +1,6 @@
 # Revising the Select Query I
 
-- Link: https://www.hackerrank.com/challenges/revising-the-select-query/problem
+- Link: https://www.hackerrank.com/challenges/revising-the-select-query/
 - Difficulty: Easy
 
 ## Intuition
