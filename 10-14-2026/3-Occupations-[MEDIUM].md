@@ -1,6 +1,6 @@
 # Occupations
 
-- Link: https://www.hackerrank.com/challenges/occupations/problem
+- Link: https://www.hackerrank.com/challenges/occupations
 - Difficulty: Medium
 
 ## Intuition
