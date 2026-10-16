@@ -14,4 +14,7 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 | 6 | Japanese Cities Names | [Hackerrank](https://www.hackerrank.com/challenges/japanese-cities-names) | [Solution](10-15-2026/1-Japanese-cities-names%5BEASY%5D.md) | 10-15-2026 | Easy | Completed |
 | 7 | Weather Observation Station 1 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-1) | [Solution](10-15-2026/2-Weather-observation-station-1%5BEASY%5D.md) | 10-15-2026 | Easy | Completed |
 | 8 | The PADS | [Hackerrank](https://www.hackerrank.com/challenges/the-pads) | [Solution](10-15-2026/3-The-PADS-%5BMEDIUM%5D.md) | 10-15-2026 | Medium | Completed |
+| 9 | Weather Observation Station 3 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-3) | [Solution](10-16-2026/1-Weather-observation-station-3%5BEASY%5D.md) | 10-16-2026 | Easy | Completed |
+| 10 | Weather Observation Station 4 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-4) | [Solution](10-16-2026/2-Weather-observation-station-4%5BEASY%5D.md) | 10-16-2026 | Easy | Completed |
+| 11 | The Report | [Hackerrank](https://www.hackerrank.com/challenges/the-report) | [Solution](10-16-2026/3-The-Report-%5BMEDIUM%5D.md) | 10-16-2026 | Medium | Completed |
 
