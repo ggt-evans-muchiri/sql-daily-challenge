@@ -17,4 +17,7 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 | 9 | Weather Observation Station 3 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-3) | [Solution](10-16-2026/1-Weather-observation-station-3%5BEASY%5D.md) | 10-16-2026 | Easy | Completed |
 | 10 | Weather Observation Station 4 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-4) | [Solution](10-16-2026/2-Weather-observation-station-4%5BEASY%5D.md) | 10-16-2026 | Easy | Completed |
 | 11 | The Report | [Hackerrank](https://www.hackerrank.com/challenges/the-report) | [Solution](10-16-2026/3-The-Report-%5BMEDIUM%5D.md) | 10-16-2026 | Medium | Completed |
+| 12 | Select All | [Hackerrank](https://www.hackerrank.com/challenges/select-all) | [Solution](10-19-2026/1-Select-All%5BEASY%5D.md) | 10-19-2026 | Easy | Completed |
+| 13 | Weather Observation Station 5 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-5) | [Solution](10-19-2026/2-Weather-observation-station-5%5BEASY%5D.md) | 10-19-2026 | Easy | Completed |
+| 14 | Top Competitors | [Hackerrank](https://www.hackerrank.com/challenges/top-competitors) | [Solution](10-19-2026/3-Top-Competitors-%5BMEDIUM%5D.md) | 10-19-2026 | Medium | Completed |
 
