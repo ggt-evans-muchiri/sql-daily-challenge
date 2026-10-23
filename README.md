@@ -26,3 +26,8 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 | 18 | Weather Observation Station 10 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-10) | [Solution](21-10-26/2-Weather-observation-station-10%5BEASY%5D.md) | 21-10-2026 | Easy | Completed |
 | 19 | Weather Observation Station 11 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-11) | [Solution](22-10-2026/1-Weather-observation-station-11%5BEASY%5D.md) | 22-10-2026 | Easy | Completed |
 | 20 | Weather Observation Station 12 | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-12) | [Solution](22-10-2026/2-Weather-observation-station-12%5BEASY%5D.md) | 22-10-2026 | Easy | Completed |
+| 21 | More Than 75 Marks | [Hackerrank](https://www.hackerrank.com/challenges/more-than-75-marks) | [Solution](23-10-2026/1-More-Than-75-Marks%5BEASY%5D.md) | 23-10-2026 | Easy | Completed |
+| 22 | Employee Salaries | [Hackerrank](https://www.hackerrank.com/challenges/salary-of-employees) | [Solution](23-10-2026/2-Employee-SalariesEASY%5D.md) | 23-10-2026 | Easy | Completed |
+| 23 | Name of Employees | [Hackerrank](https://www.hackerrank.com/challenges/name-of-employees) | [Solution](23-10-2026/3-Name-of%20-employees%5BEASY%5D.md) | 23-10-2026 | Easy | Completed |
+| 24 | Binary Tree Nodes | [Hackerrank](https://www.hackerrank.com/challenges/binary-search-tree-1) | [Solution](23-10-2026/4-Binary-tree-nodes%5BMEDIUM%5D.md) | 23-10-2026 | Medium | Completed |
+| 25 | The Company | [Hackerrank](https://www.hackerrank.com/challenges/the-company) | [Solution](23-10-2026/5-The-company%5BMEDIUM%5D.md) | 23-10-2026 | Medium | Completed |
