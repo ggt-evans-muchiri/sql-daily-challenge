@@ -4,6 +4,19 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 
 ## Summary
 
+### 28-10-2026
+
+| #   | Name                                         | Challenge                                                                                      | Solution                                                                         | Difficulty | Status    |
+| --- | -------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- | --------- |
+| 42  | Asian Population                             | [Hackerrank](https://www.hackerrank.com/challenges/asian-population)                           | [Solution](28-10-2026/1-Asian-population%5BEASY%5D.md)                           | Easy       | Completed |
+| 43  | African Cities                               | [Hackerrank](https://www.hackerrank.com/challenges/african-cities)                             | [Solution](28-10-2026/2-African-cities%5BEASY%5D.md)                             | Easy       | Completed |
+| 44  | Average Population of Each Continent         | [Hackerrank](https://www.hackerrank.com/challenges/average-population-of-each-continent)       | [Solution](28-10-2026/3-Average-population-of-each-continent%5BEASY%5D.md)       | Easy       | Completed |
+| 45  | Weather Observation Station 20               | [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-20)             | [Solution](28-10-2026/4-Weather-observation-station-20%5BMEDIUM%5D.md)           | Medium     | Completed |
+| 46  | Matching Skills                              | [DataLemur](https://datalemur.com/questions/matching-skills)                                  | [Solution](28-10-2026/5-Matching-skills%5BEASY%5D.md)                           | Easy       | Completed |
+| 47  | Page With No Likes                           | [DataLemur](https://datalemur.com/questions/sql-page-with-no-likes)                            | [Solution](28-10-2026/6-Page-with-no-likes%5BEASY%5D.md)                        | Easy       | Completed |
+| 48  | Tesla Unfinished Parts                       | [DataLemur](https://datalemur.com/questions/tesla-unfinished-parts)                            | [Solution](28-10-2026/7-Tesla-unfinished-parts%5BEASY%5D.md)                    | Easy       | Completed |
+| 49  | Laptop vs. Mobile Viewership                  | [DataLemur](https://datalemur.com/questions/laptop-mobile-viewership)                          | [Solution](28-10-2026/8-Laptop-mobile-viewership%5BEASY%5D.md)                  | Easy       | Completed |
+
 ### 27-10-2026
 
 | #   | Name                                         | Challenge                                                                                      | Solution                                                                         | Difficulty | Status    |
