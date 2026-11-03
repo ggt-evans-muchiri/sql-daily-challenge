@@ -4,6 +4,18 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 
 ## Summary
 
+### 03-11-2026
+
+| #   | Name        | Challenge                                                                    | Solution                                                      | Difficulty | Status    |
+| --- | ----------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | --------- |
+| 51  | Challenges  | [Hackerrank](https://www.hackerrank.com/challenges/challenges)               | [Solution](03-11-2026/1-Challenges%5BMEDIUM%5D.md)           | Medium     | Completed |
+
+### 02-11-2026
+
+| #   | Name        | Challenge                                                                    | Solution                                                      | Difficulty | Status    |
+| --- | ----------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | --------- |
+| 50  | Placements  | [Hackerrank](https://www.hackerrank.com/challenges/placements)               | [Solution](02-11-2026/1-Placements%5BMEDIUM%5D.md)           | Medium     | Completed |
+
 ### 28-10-2026
 
 | #   | Name                                         | Challenge                                                                                      | Solution                                                                         | Difficulty | Status    |
