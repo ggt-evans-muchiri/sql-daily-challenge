@@ -4,6 +4,19 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 
 ## Summary
 
+### 05-11-2026
+
+| #   | Name                          | Challenge                                                               | Solution                                                              | Difficulty | Status    |
+| --- | ----------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- | --------- |
+| 59  | App Click-through Rate (CTR)  | [DataLemur](https://datalemur.com/questions/click-through-rate)         | [Solution](05-11-2026/1-App-click-through-rate%5BEASY%5D.md)          | Easy       | Completed |
+| 60  | Second Day Confirmation       | [DataLemur](https://datalemur.com/questions/second-day-confirmation)    | [Solution](05-11-2026/2-Second-day-confirmation%5BEASY%5D.md)          | Easy       | Completed |
+| 61  | Non-Profitable Drugs          | [DataLemur](https://datalemur.com/questions/non-profitable-drugs)       | [Solution](05-11-2026/3-Non-profitable-drugs%5BEASY%5D.md)             | Easy       | Completed |
+| 62  | Top 3 Most Profitable Drugs   | [DataLemur](https://datalemur.com/questions/top-profitable-drugs)       | [Solution](05-11-2026/4-Top-three-most-profitable-drugs%5BEASY%5D.md)  | Easy       | Completed |
+| 63  | Total Drug Sales              | [DataLemur](https://datalemur.com/questions/total-drugs-sales)          | [Solution](05-11-2026/5-Total-drug-sales%5BEASY%5D.md)                | Easy       | Completed |
+| 64  | Cards Issued Difference       | [DataLemur](https://datalemur.com/questions/cards-issued-difference)    | [Solution](05-11-2026/6-Cards-issued-difference%5BEASY%5D.md)          | Easy       | Completed |
+| 65  | Second Highest Salary         | [DataLemur](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](05-11-2026/7-Second-highest-salary%5BMEDIUM%5D.md)           | Medium     | Completed |
+| 66  | Third Transaction             | [DataLemur](https://datalemur.com/questions/sql-third-transaction)     | [Solution](05-11-2026/8-Third-transaction%5BMEDIUM%5D.md)              | Medium     | Completed |
+
 ### 04-11-2026
 
 | #   | Name                  | Challenge                                                                     | Solution                                                            | Difficulty | Status    |
