@@ -4,6 +4,42 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 
 ## Summary
 
+### 16-11-2026
+
+| #   | Name                          | Challenge                                                                         | Solution                                                                            | Difficulty | Status    |
+| --- | ----------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- | --------- |
+| 78  | International Call Percentage | [DataLemur](https://datalemur.com/questions/international-call-percentage)        | [Solution](16-11-2026/1-International-call-percentage%5BMEDIUM%5D.md)                | Medium     | Completed |
+
+### 13-11-2026
+
+| #   | Name               | Challenge                                                         | Solution                                                              | Difficulty | Status    |
+| --- | ------------------ | ----------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- | --------- |
+| 77  | Card Launch Success | [DataLemur](https://datalemur.com/questions/card-launch-success) | [Solution](13-11-2026/1-Card-launch-success%5BMEDIUM%5D.md)           | Medium     | Completed |
+
+### 12-11-2026
+
+| #   | Name                  | Challenge                                                               | Solution                                                                    | Difficulty | Status    |
+| --- | --------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------- | --------- |
+| 76  | Odd and Even Measurements | [DataLemur](https://datalemur.com/questions/odd-even-measurements) | [Solution](12-11-2026/1-Odd-and-even-measurements%5BMEDIUM%5D.md)            | Medium     | Completed |
+
+### 11-11-2026
+
+| #   | Name                           | Challenge                                                                         | Solution                                                                            | Difficulty | Status    |
+| --- | ------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- | --------- |
+| 75  | Uncategorized Calls Percentage | [DataLemur](https://datalemur.com/questions/uncategorized-calls-percentage)       | [Solution](11-11-2026/1-Uncategorized-calls-percentage%5BEASY%5D.md)                | Easy       | Completed |
+
+### 10-11-2026
+
+| #   | Name             | Challenge                                                             | Solution                                                           | Difficulty | Status    |
+| --- | ---------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- | --------- |
+| 74  | Top 3 Salaries   | [DataLemur](https://datalemur.com/questions/sql-top-three-salaries)   | [Solution](10-11-2026/1-Top-three-salaries%5BMEDIUM%5D.md)         | Medium     | Completed |
+
+### 09-11-2026
+
+| #   | Name                    | Challenge                                                         | Solution                                                                      | Difficulty | Status    |
+| --- | ----------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- | --------- |
+| 73  | Top 2 Products by Sales | [DataLemur](https://datalemur.com/questions/sql-highest-grossing) | [Solution](09-11-2026/1-Top-two-products-by-sales%5BMEDIUM%5D.md)             | Medium     | Completed |
+
 ### 06-11-2026
 
 | #   | Name                       | Challenge                                                                 | Solution                                                                     | Difficulty | Status    |
