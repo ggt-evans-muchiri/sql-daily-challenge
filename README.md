@@ -4,6 +4,30 @@ This repository is for documenting my daily SQL practice. Each day I solve a few
 
 ## Summary
 
+### 20-11-2026
+
+| #   | Name               | Challenge                                                       | Solution                                                                    | Difficulty | Status    |
+| --- | ------------------ | --------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------- | --------- |
+| 82  | Supercloud Customer | [DataLemur](https://datalemur.com/questions/supercloud-customer) | [Solution](20-11-2026/1-Supercloud-customer%5BMEDIUM%5D.md)                 | Medium     | Completed |
+
+### 19-11-2026
+
+| #   | Name                 | Challenge                                                            | Solution                                                                        | Difficulty | Status    |
+| --- | -------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- | --------- |
+| 81  | User Shopping Sprees | [DataLemur](https://datalemur.com/questions/amazon-shopping-spree)   | [Solution](19-11-2026/1-User-shopping-sprees%5BMEDIUM%5D.md)                    | Medium     | Completed |
+
+### 18-11-2026
+
+| #   | Name               | Challenge                                                                  | Solution                                                                    | Difficulty | Status    |
+| --- | ------------------ | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------- | --------- |
+| 80  | Contest Leaderboard | [Hackerrank](https://www.hackerrank.com/challenges/contest-leaderboard)   | [Solution](18-11-2026/1-Contest-leaderboard%5BMEDIUM%5D.md)                | Medium     | Completed |
+
+### 17-11-2026
+
+| #   | Name                  | Challenge                                                         | Solution                                                                       | Difficulty | Status    |
+| --- | --------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- | --------- |
+| 79  | Best Selling Products | [DataLemur](https://datalemur.com/questions/best-selling-products) | [Solution](17-11-2026/1-Best-selling-products%5BMEDIUM%5D.md)                 | Medium     | Completed |
+
 ### 16-11-2026
 
 | #   | Name                          | Challenge                                                                         | Solution                                                                            | Difficulty | Status    |
